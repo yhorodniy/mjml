@@ -1,0 +1,23 @@
+{
+  "name": "mjml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mjml": "./node_modules/.bin/mjml index.mjml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhorodniy/mjml.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yhorodniy/mjml/issues"
+  },
+  "homepage": "https://github.com/yhorodniy/mjml#readme",
+  "dependencies": {
+    "mjml": "^4.15.3"
+  }
+}
